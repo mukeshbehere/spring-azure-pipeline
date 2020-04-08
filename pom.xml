@@ -11,7 +11,7 @@
 	<groupId>com.msb.sample</groupId>
 	<artifactId>spring-azure-pipeline</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello-world-spring-boot</name>
+	<name>spring-azure-pipeline</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
